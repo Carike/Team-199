@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@what3words/api": "^3.3.6",
+    "@what3words/api": "^4.0.0",
     "axios": "^0.26.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
